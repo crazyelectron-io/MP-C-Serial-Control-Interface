@@ -1,3 +1,3 @@
-# MP-S
+# SWTPC MP-S
 
-SWTPC MP-S Serial Control Interface
+SWTPC MP-S Serial Control Interface schematics and documentation.
